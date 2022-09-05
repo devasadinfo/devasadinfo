@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Md.Atikul Islam Asad</h1>
 <h3 align="center">A passionate Flutter Developer</h3>
 
-<div>
- <a  href="https://www.linkedin.com/in/dvdluiz91/"  target="_blank"><img  src="https://img.shields.io/badge/-CONNECT-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+<div align="center">
+ <a  href="https://www.linkedin.com/in/devasadinfo/"  target="_blank"><img  src="https://img.shields.io/badge/-CONNECT-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
    <a  href="https://twitter.com/devasadinfo#"  target="_blank"><img  src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"  target="_blank"></a>
    <a  href="https://discord.com/channels/984513968750071868/984513971182784554#"  target="_blank"><img  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  target="_blank"></a> 
   <a  href = "developer.asadinfo@gmail.com"><img  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
