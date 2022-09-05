@@ -1,6 +1,15 @@
 [![MasterHead](https://images.prismic.io/impactio-blog/2575689d-8dfe-4d7c-b6a7-f33b170231b8_What+Does+a+Dart+and+Flutter+Developer+Do.png?auto=compress,format)](https://dev-devasadinfo.pantheonsite.io/)
 <h1 align="center">Hi 👋, I'm Md.Atikul Islam Asad</h1>
-<h3 align="center">A passionate Flutter Developer from Bangladesh</h3>
+<h3 align="center">A passionate Flutter Developer</h3>
+
+<div>
+ <a  href="https://www.linkedin.com/in/dvdluiz91/"  target="_blank"><img  src="https://img.shields.io/badge/-CONNECT-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+   <a  href="https://twitter.com/devasadinfo#"  target="_blank"><img  src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"  target="_blank"></a>
+   <a  href="https://discord.com/channels/984513968750071868/984513971182784554#"  target="_blank"><img  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  target="_blank"></a> 
+  <a  href = "developer.asadinfo@gmail.com"><img  src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
+<a  href="https://www.youtube.com/channel/UC3t0ERh5dpamBis6ozIAkog/featured"  target="_blank"><img  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"  target="_blank"></a>
+
+</div>
 
 - 🌱 I’m currently learning **Dart,Flutter**
 
